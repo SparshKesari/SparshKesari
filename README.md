@@ -28,7 +28,7 @@ Database               | [![PostgreSQL](https://img.shields.io/static/v1?style=f
 <img  align="left" alt="Sparsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SparshKesari&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
 <img   alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKesari&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
 
-
+<br />
 
 <details> 
   <summary>💻 More Stats</summary>
