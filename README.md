@@ -1,8 +1,8 @@
+<h2>Hey 👋, I'm Sparsh Kesari</h2>
 
+Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
-
-<h2>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Sparsh Kesari</a></h2>
-  Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
+<br />
 
  [![Gmail Badge](https://img.shields.io/badge/-Sparsh%20Kesari-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:sparshkesari98@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sparsh%20Kesari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sparshk98/)
 
@@ -10,8 +10,8 @@
 <li>🧐 I am currently learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/SparshKesari">Github</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="">my blog</a>.</li> -->
-<li>💬 Ping me about <strong>python, web development, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="">resume</a>.</li>
+<li>💬 Ping me about <strong>Web development, Security, and Blockchain</strong>.</li>
+<!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
 <!-- <li>Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.</li> -->
 </ul>
 <br/>
@@ -26,13 +26,7 @@ Database               | [![PostgreSQL](https://img.shields.io/static/v1?style=f
 
 
 <img  align="left" alt="Sparsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SparshKesari&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
-<img  align="right" alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKesari&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
-
-<br /><br />
-<br />
-<br /><br /><br />
-<br />
-<br />
+<img   alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKesari&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
 
 
 
