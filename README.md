@@ -23,11 +23,11 @@ CI / CD  Tools                | [![Github Actions Badge](https://img.shields.io/
 Database               | [![PostgreSQL](https://img.shields.io/static/v1?style=flat&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=FFFFFF&label=)]() [![MySQL](https://img.shields.io/static/v1?style=flat&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)]() [![SQLite](https://img.shields.io/static/v1?style=flat&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)]() [![MongoDB](https://img.shields.io/static/v1?style=flat&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)]()
 
 
-<img alt="Sparsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SparshKesari&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
+<img  align="left" alt="Sparsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SparshKesari&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
+<img  align="right" alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKesari&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
 <details> 
-  <summary>💻 More Profile Stats</summary>
+  <summary>💻 More Stats</summary>
   <br/>
-  &emsp;<img alt="Sparsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKesari&langs_count=6&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
   <br/>
   <img alt="Sparsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SparshKesari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
