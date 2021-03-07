@@ -1,5 +1,4 @@
 ![](https://github.com/SparshKesari/SparshKesari/blob/main/assests/cover.jpg)
-The Dark-Mode always wins.
 
 Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 
