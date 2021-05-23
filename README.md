@@ -7,12 +7,14 @@ Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `
  [![Gmail Badge](https://img.shields.io/badge/-Sparsh%20Kesari-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:sparshkesari98@gmail.com) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sparsh%20Kesari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sparshk98/)
 
 <ul>
-<li>🧐 I am currently learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
+<li>🧐 I am currently learning about <strong>serverless architectures</strong> and <strong>containerization tools</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/SparshKesari">Github</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>Web development, Security, and Blockchain</strong>.</li>
-<!-- <li>📙 Check out my <a href="">resume</a>.</li> -->
+ 
+<!-- <li📝 Check out my blog page [<img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=flat&logo=medium&logoColor=white" />](https://sparshkesari98.medium.com/) </li> -->
 <!-- <li>Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.</li> -->
+ <li>📝 My Blog Page on <a href="https://sparshkesari98.medium.com"> Medium </a></li>
 </ul>
 <br/>
 
